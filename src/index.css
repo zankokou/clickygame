@@ -1,0 +1,29 @@
+
+#message{
+    text-align: center;
+    color: red;
+}
+
+#scoreBoard{
+    text-align: right;
+}
+
+.pictureCard{
+    /* max-width: 400px; */
+    height: 220px;
+    margin: 10px;
+    /* position: flex; */
+    display: inline-block;
+    border: 1px solid black;
+
+}
+
+.pictureArea{
+    text-align: center;
+}
+
+img{
+    width: 115px;
+    height: 150px;
+}
+
